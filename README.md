@@ -70,7 +70,7 @@ To sync with updates upstream:
 
 Team member 1: Jeffrey Fang
 
-I have consumed 29 late hours for this assignment, putting me over the limit by 5.
+I have consumed 0 late hours.
 
 1. How many passes does your semantic analysis perform over the AST? List the names of these
 passes with their class names and briefly explain the purpose of each pass.
