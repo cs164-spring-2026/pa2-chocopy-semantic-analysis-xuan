@@ -9,7 +9,7 @@ import chocopy.common.astnodes.*;
  *
  * T is the type of analysis result.
  */
-public class AbstractNodeAnalyzer<T> implements NodeAnalyzer<T> {
+public abstract class AbstractNodeAnalyzer<T> implements NodeAnalyzer<T> {
     @Override
     public T analyze(AssignStmt node) {
         return defaultAction(node);
